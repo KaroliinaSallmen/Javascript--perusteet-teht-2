@@ -1,1 +1,1 @@
-# Javascript--perusteet-teht-2
+Ajetaan nodella. node .\teht-2.js
